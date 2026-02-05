@@ -1,3 +1,5 @@
+#Single level inheritence
+
 # Parent class 1
 class Camera:
     def __init__(self, camera_quality):
